@@ -1,3 +1,5 @@
 1 - Instalar node v20 <br>
-2 - Após baixar o projeto execute npm i <br>
-3 - npm start
+2 - Instalar o mongoDB (https://www.mongodb.com/try/download/community) e criar um banco chamado "informa-sociedade"
+3 - Caso o seu mongoDB não for instalado local faça a alteração da URL no arquivo: https://github.com/RichardOliveiira/informa-sociedade-api/blob/main/config/config.js
+4 - Após baixar o projeto execute npm i <br>
+5 - npm start
